@@ -1,0 +1,1 @@
+CREATE USER alexcraciun identified by parola;
